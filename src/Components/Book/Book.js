@@ -27,7 +27,7 @@ export const Book = (props) => {
                             <FontAwesomeIcon icon={faCloudDownloadAlt} onClick={props.handleBookVisibility}/>
                             Pobierz EPUB
                         </a>
-                        <a className={styles.link} href={Books[props.index].link2} target="_blank" style={{color: Books[props.index].fontColor2}}>
+                        <a className={styles.link} href={Books[props.index].link2} style={{color: Books[props.index].fontColor2}}>
                             <FontAwesomeIcon icon={faCloudDownloadAlt} onClick={props.handleBookVisibility}/>
                             Pobierz MOBI (kindle)
                         </a>
