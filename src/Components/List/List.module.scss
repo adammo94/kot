@@ -16,7 +16,7 @@
     align-items: center;
     box-sizing: border-box;
     overflow: auto;
-    overflow-x: scroll;
+    overflow-x: auto;
     &>div:not(:first-child) {
         margin-left: -130px;
     }
