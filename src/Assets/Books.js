@@ -1,0 +1,67 @@
+
+export const Books = [
+    {
+        unlocked: false,
+        opened: false,
+        title: 'Kolor magii',
+        author: 'Terry Pratchett',
+        color1: '#efca52',
+        color2: '#C44C34',
+        bg: '#463e31',
+        password: 'bajojajo',
+        publisher: 'Prószyński i S-ka',
+        link1: 'http://www.google.com',
+        link2: 'http://www.google.com',
+        fontColor1: 'white',
+        fontColor2: 'white',
+        description: 'Pierwsza część kultowego cyklu o Świecie Dysku! Rincewind pakuje się w kłopoty. Po piętach depcze mu Śmierć. Nie obchodzi jej, że pechowy mag opiekuje się jedynym turystą w Ankh-Morpork... Pierwsza część słynnego wieloksięgu rozgrywającego się w Świecie Dysku – śmieszna, mądra i cudownie zadowalająca – jak wszystkie książki Prachetta. Do Ankh-Morpork przybywa pierwszy turysta. Dwukwiat pochodzi z Imperium Agatejskiego, w którego istnienie nikt do tej pory nie wierzył. Skoro jednak obcy już jest w mieście i wciska wszystkim „tu-bez-pieczenia”, to ktoś musi się nim zająć. Pada na pechowca Rincewinda. Wyrzucony z Niewidocznego Uniwersytetu (prawie) mag jest bowiem obdarzony jedną zdolnością niedostępną innym: zna język przybysza. Dwukwiat i jego tłumacz idealnie do siebie pasują – obaj mają niesamowity talent do popadania w kłopoty. I to duże, a nawet bardzo duże… Bo jak inaczej określić Śmierć depczącą im po piętach? Jeśli jeszcze podróżuje się z wielonożnym i dosyć żarłocznym Bagażem, to mnóstwo niebezpiecznych przygód jest murowane...'
+    },
+    {
+        unlocked: false,
+        opened: true,
+        title: 'Pomówmy szczerze',
+        author: 'Julian Barnes',
+        color1: '#fd6803',
+        color2: '#D1CECE',
+        bg: '#d93d01',
+        password: 'brak',
+        publisher: 'Świat Książki',
+        link1: 'http://www.google.com',
+        link2: 'http://www.google.com',
+        fontColor1: 'white',
+        fontColor2: 'white',
+        description: 'Na pozór banalny trójkąt miłosny - on, ona i ten trzeci. Ludziom zdarza się przecież odkochać, nawet w miesiąc po ślubie, a rozwody są na porządku dziennym. Jednak z relacji trojga zainteresowanych, którzy przedstawiają całą historię każde z własnego punktu widzenia, przebija, prócz prawdziwego cierpienia i śmiechu przez łzy, odrobina obłędu i niezwykły komizm. Opowieść o losach trojga...'
+    },
+    {
+        unlocked: false,
+        opened: true,
+        title: 'Red, White & Royal Blue',
+        author: 'Casey McQuiston',
+        color1: '#DE1D1D',
+        color2: '#007FB8',
+        bg: '#F4B0BF',
+        password: 'brak',
+        publisher: 'Prószyński i S-ka',
+        link1: 'http://www.google.com',
+        link2: 'http://www.google.com',
+        fontColor1: 'white',
+        fontColor2: 'black',
+        description: 'Podczas wesela na brytyjskim dworze wybucha kłótnia. W jej wyniku książę Henry i Alex – syn prezydentki USA – lądują w torcie, co wywołuje kryzys dyplomatyczny. Żeby go zażegnać, PR-owcy wymyślają ustawkę: Henry i Alex mają spędzić razem jeden dzień, pokazując się mediom jako przyjaciele. Nikt się nie spodziewa, że będzie to początek uczucia, które młodzi mężczyźni będą musieli ukrywać przed światem… Co się stanie, gdy Pierwszy Syn Ameryki zakocha się w księciu Walii? Powieść „Red, White & Royal Blue” była wydarzeniem roku w USA, gdzie pokochały ją miliony młodych czytelników i czytelniczek. Niezwykle wciągająca, zabawna i czuła, udowadnia, że prawdziwa miłość nie zawsze jest dyplomatyczna. NAGRODY I WYRÓŻNIENIA: – Bestseller „New York Timesa”. – Najlepsza książka roku według „Vogue”, NPR, „Vanity Fair”, „Entertainment Weekly” i wielu innych mediów. – Laureatka nagrody czytelników Goodreads Choice Awards 2019 w kategorii debiut roku oraz romans roku. NAPISALI O KSIĄŻCE: „Znakomity debiut. Trudno jest patrzeć, jak Alex zakochuje się w Henrym, samemu się trochę nie zakochując – w nich i w tej niezwykłej, cudownej książce” – „The New York Times Book Review” „Arcydzieło. Życie w świecie tej książki naprawdę dodaje otuchy, podobnie jak wyobrażenie sobie, że mogłoby ono stać się rzeczywistością” – „Vogue” SZALEŃSTWO NA PUNKCIE ALEXA I HENRY’EGO DOTARŁO DO POLSKI JESZCZE PRZED NASZĄ PREMIERĄ, A CZYTELNICZKI DZIELIŁY SIĘ ENTUZJASTYCZNYMI RECENZJAMI M.IN. NA LUBIMYCZYTAĆ.PL: „Tyle dobrego słyszałam, więc stwierdziłam: ja obalę te zachwyty! Nooooo, nie wyszło xD…” „Cudowna książka – inna, niż się spodziewałam. Nie czytałam wcześniej powieści, w której wątek romantyczny rozgrywa się między dwiema osobami płci męskiej i się bałam (nie wiedzieć dlaczego). Okazało się, że niepotrzebnie, ponieważ historia tych postaci jest wartościowa, a przede wszystkim przezabawna. Polecam książkę wszystkim wielbicielom komedii czy romansów, a w szczególności osobom, które - tak jak ja - miały opory przed poznaniem historii dwóch nieheteroseksualnych chłopców. Zakochacie się!” – Sk8er123, LubimyCzytać.pl „Polecam, ale nie do czytania w miejscu publicznym, bo okrzyki zachwytu i radości pojawiają się u czytelnika bardzo często” – Spectrum, LubimyCzytać.pl „Jejciu, ależ to było dobre. Słodka, zabawna, wzruszająca, po prostu CUDOWNA!” – KamaZa, LubimyCzytać.pl „Urocza i przezabawna. Aż żałuję, że tak długo zwlekałam z lekturą tej książki, ale serio: Ludzie, to jest jedna z tych książek, na które zawsze jest ochota! :D” – Blair, LubimyCzytać.pl O Autorce: CASEY MCQUISTON – autorka bestsellera „Red, White & Royal Blue” oraz miłośniczka ciast. Pisze książki o mądrych ludziach, którzy zakochują się nie w tym, w kim trzeba. Urodzona i wychowana w południowej Luizjanie, obecnie mieszka w Nowym Jorku z Pepperem, pudlem na etacie osobistego asystenta.'
+    },
+    {
+        unlocked: false,
+        opened: true,
+        title: 'Middlesex',
+        author: 'Jeffrey Eugenides',
+        color1: '#3B541D',
+        color2: '#B72407',
+        bg: '#FDEBD3',
+        password: 'brak',
+        publisher: 'Wydawnictwo Sonia Draga',
+        link1: 'http://www.google.com',
+        link2: 'http://www.google.com',
+        fontColor1: 'white',
+        fontColor2: 'black',
+        description: 'Powieść nagrodzona Pulitzerem. „Szaleńcza rodzinna saga, z genetycznymi mutacjami, imperium tureckim, przemysłowym Detriot i nieoczywistą definicją płci w tle”. Obejmująca osiem dekad – i jedno niezwykle trudne dojrzewanie – powieść Jeffreya Eugenidesa jest świetną, całkowicie wyjątkową baśnią o skrzyżowanych rodowodach, subtelnościach płci oraz głębokich, nieczystych ponagleniach pożądania. „Middlesex” jest spełnieniem wielkiego talentu pisarza, uznanego przez Granta i The New Yorker za jednego z najlepszych amerykańskich powieściopisarzy. „Monumentalną sagę o kazirodztwie pisał osiem lat, ale warto było. Na powieść Middlesex spłynęła lawina nagród, z Pulitzerem na czele” – „Newsweek Polska” „Jedna z ciekawszych amerykańskich powieści ostatnich lat, wyróżniona Nagrodą Pulitzera w 2002 roku. Zaczyna się jak lesbijski romans – nastolatka odkrywa fascynację koleżanką. Ale to dopiero początek szaleńczej rodzinnej sagi, z genetycznymi mutacjami, imperium tureckim, przemysłowym Detriot i nieoczywistą definicją płci w tle. Jeśli tak ma wyglądać postmodernizm, to prosimy o więcej” – „Dziennik Polska” „Szalenie pomysłowa, pełna inwencji twórczej, często zabawna i poruszająca” – „USA Today” „Wielka, zuchwała, wyśmienita powieść... dociera do tych miejsc, gdzie nieliczni tylko narratorzy mają odwagę stąpać... liryczna i znakomita” – „The Boston Globe”'
+    }
+]
